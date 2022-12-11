@@ -31,3 +31,8 @@ To run the Test case :
 ```
 python -m unittest test_knightproblem.py
 ```
+Install pycharm.
+```
+create a new project in pycharm and add these three code folders in there and then run the code you can get result
+```
+Thank you.
